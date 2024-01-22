@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+.catkin_workspace/
+.cmake/
+build/
+cmake-build-*/
+devel/
+src/devel/
